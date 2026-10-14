@@ -109,7 +109,7 @@ A phishing-awareness and suspicious-link risk analysis project.
 
 **Focus:** Web development, security concepts and risk scoring.
 
-**Repository:** Add the verified repository URL when ready.
+
 
 </td>
 <td width="50%" valign="top">
@@ -120,7 +120,7 @@ A role-based academic portal for student, faculty and administrative workflows.
 
 **Focus:** PHP, MySQL and Bootstrap.
 
-**Repository:** Add the verified repository URL when ready.
+
 
 </td>
 </tr>
@@ -133,7 +133,6 @@ A chatbot-oriented project exploring conversational interfaces and digital exper
 
 **Focus:** Python, chatbot concepts and interface design.
 
-**Repository:** Add the verified repository URL when ready.
 
 </td>
 <td width="50%" valign="top">
